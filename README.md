@@ -8,6 +8,6 @@ This project includes:
 1. Data cleaning 
 2. Exploratory data analysis
 3. Machine learning model building 
-4. Model performance testing
+4. Model performance testin
 
 
