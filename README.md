@@ -1,4 +1,4 @@
-# Customer Churn Prediction Using 
+# Customer Churn Prediction Using ML
 
 ## What is Churn Prediction?
 
