@@ -9,6 +9,6 @@ This project includes:
 2. Exploratory data analysis
 3. Machine learning model building 
 4. Model performance testing
-6. 
+
 
 
